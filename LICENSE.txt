@@ -1,4 +1,5 @@
-Copyright © 2021 Paige Ashlynn
+Dot_Gothic_8x8, Fast_Action_8x8, Our_Distant_Future_8x8, and
+Phantasm_8x8 Copyright (c) 2021, Paige Ashlynn (https://github.com/mxashlynn).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
