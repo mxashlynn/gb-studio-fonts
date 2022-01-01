@@ -1,6 +1,6 @@
 # GB Studio Fonts 🕹📝
 
-This repository contains fonts I have created for use with [GB Studio](github.com/chrismaltby/gb-studio/).
+This repository contains fonts I have created for use with [GB Studio](https://github.com/chrismaltby/gb-studio/).
 
 ## Contents 📂
 
