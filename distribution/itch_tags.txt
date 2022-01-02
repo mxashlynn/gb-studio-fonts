@@ -1,0 +1,8 @@
+font
+gameboy
+pixel-art
+gb-studio
+asset
+two-colors
+8-bit
+2d
