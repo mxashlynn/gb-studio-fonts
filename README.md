@@ -10,6 +10,7 @@ The following fonts are currently available~~
 - **Fast_Action_8x8**, a font inspired by various 1990s arcade and console game typefaces.
 - **Our_Distant_Future_8x8**, a font inspired by [Chunky_8x8](https://github.com/beauregardes/fonts) by [Bo Fehlan](https://github.com/beauregardes/) and ["TeleTekst"](https://www.dafont.com/teletekst.font) by [LeFly Fonts](http://lefly.vepar.nl/).
 - **Phantasm_8x8**, an adaptation of [Phantasm_10x10](https://github.com/beauregardes/fonts) by [Bo Fehlan](https://github.com/beauregardes/);
+- **Facsimile_8x8**, an adaptation of [Fairfax 6x12](https://github.com/kreativekorp/open-relay) by [Rebecca G. Bettencourt](http://www.kreativekorp.com/software/fonts/);
 
 ## How To Use 👩‍🔬
 
