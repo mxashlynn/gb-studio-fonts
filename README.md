@@ -40,7 +40,7 @@ The following fonts are currently available~~
 2. Copy the `.png` and `.json` files for the fonts you want to use from the `assets/fonts` folder in this repository to the same folder in your GB Studio project.
 3. Select the font you wish from the editor interface.
 
-For more information please see the [GB Studio user interface documentation](https://www.gbstudio.dev/docs/ui-elements/).
+For more information please see the [GB Studio user interface documentation](https://www.gbstudio.dev/docs/settings/#ui-elements--fonts).
 
 
 ## Rights 🏳️‍🌈🏳️‍⚧️
